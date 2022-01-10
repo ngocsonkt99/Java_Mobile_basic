@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Product Infomation"
+        android:id="@+id/pinf"/>
+    <item android:title="Product Order"
+        android:id="@+id/pod"/>
+</menu>

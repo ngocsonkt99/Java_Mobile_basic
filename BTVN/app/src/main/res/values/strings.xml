@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BTVN</string>
+    <string name="nhap_du_lieu_can_tim">Nhap du lieu can tim</string>
+    <string name="search">Search</string>
+    <string name="your_product">Your Product</string>
+    <string name="search_products">Search products..</string>
+    <string name="product_name">Product name</string>
+    <string name="unit">Unit</string>
+    <string name="price">Price</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grid_View</string>
+    <string-array name="presidents_array">
+        <item>Ipad1</item>
+        <item>Ipad2</item>
+        <item>Ipad3</item>
+        <item>Ipad4</item>
+        <item>Ipad5</item>
+        <item>Ipad6</item>
+        <item>Ipad7</item>
+        <item>Ipad8</item>
+        <item>Ipad9</item>
+        <item>Ipad10</item>
+        <item>Ipad11</item>
+        <item>Ipad12</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string-array name="ds_phong_ban">
+    <item>Phòng Nhân sự</item>
+    <item>Phòng IT</item>
+    <item>Phòng Marketing</item>
+    </string-array>
+</resources>

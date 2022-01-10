@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_thoat"
+        android:layout_width="162dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="Thoat" />
+
+    <EditText
+        android:id="@+id/editText_nhapmanv"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Nhap ma nv" />
+
+    <Button
+        android:id="@+id/button_tim"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="Tim" />
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

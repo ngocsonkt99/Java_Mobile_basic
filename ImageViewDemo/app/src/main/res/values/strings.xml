@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="presidents_array">
+        <item>"alexsandrer"</item>
+        <item> "blilicop"</item>
+        <item>"dadwqdqwdw"</item>
+        <item>     "KaKao"</item>
+        <item>    "Palete"</item>
+        <item>    "SuOn"</item>
+        <item>   "MinKai"</item>
+        <item>   "Kaiz"</item>
+        <item>   "Banana"</item>
+        <item>   "Tinikey"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UngNgocSon_17072921"

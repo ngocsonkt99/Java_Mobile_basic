@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_view"
+        android:title="Search View"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+    />
+    <item
+        android:id="@+id/mnxemds"
+        android:title="Xem Danh Sach">
+        <menu>
+            <item
+                android:id="@+id/mnxemdssp"
+                android:title="Product" />
+            <item
+                android:id="@+id/mnxemdsl"
+                android:title="Category" />
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/mnnhapsp"
+        android:title="Nhap San Pham Moi">
+
+    </item>
+
+    <item
+        android:id="@+id/mntimsp"
+        android:title="Tim Kiem San Pham">
+
+    </item>
+
+    <item
+        android:id="@+id/mnxoads"
+        android:title="Xoa Danh Sach">
+
+    </item>
+
+
+
+</menu>

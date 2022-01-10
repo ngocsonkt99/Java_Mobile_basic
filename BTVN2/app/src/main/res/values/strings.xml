@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTVN2</string>
+    <string name="xem_danh_sach">Xem danh sach</string>
+    <string name="sinh_vien">Sinh vien</string>
+    <string name="xoa_ds">xoa ds</string>
+    <string name="Nhap_sp">Nhap sp</string>
+    <string name="tim_kiem_san_pham">Tim kiem san pham</string>
+    <string name="san_pham">San Pham</string>
+    <string name="loai">Loai</string>
+    <string name="thong_tin_san_pham">Thong Tin San Pham</string>
+    <string name="ten_san_pham">Ten San Pham</string>
+    <string name="ma_san_pham">Ma San Pham</string>
+    <string name="so_luong">So Luong</string>
+    <string name="submit">SAVE</string>
+    <string name="search">SEARCH</string>
+    <string name="nhap_du_lieu_can_tim">Nhap du lieu can tim</string>
+</resources>

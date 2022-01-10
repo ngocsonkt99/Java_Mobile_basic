@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnxemds"
+        android:title="Xem danh sach">
+            <menu>
+                <item
+                    android:id="@+id/mnxemdssv"
+                    android:title="Sinh vien"></item>
+                <item
+                    android:id="@+id/mnxemdslh"
+                    android:title="lop hoc"></item>
+            </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/mnsuads"
+        android:title="sua ds">
+
+    </item>
+
+    <item
+        android:id="@+id/mnxoads"
+        android:title="xoa ds">
+
+    </item>
+
+    <item
+        android:id="@+id/mninds"
+        android:title="in ds">
+
+    </item>
+
+</menu>

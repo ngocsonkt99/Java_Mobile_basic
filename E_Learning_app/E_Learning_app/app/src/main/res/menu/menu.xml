@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/MENU1"
+        android:title = "câu trả lời sai"
+        app:showAsAction = "never" />
+
+    <item android:id = "@+id/MENU2"
+        android:title = "câu trả lời đúng"
+        app:showAsAction = "never" />
+
+    <item android:id = "@+id/MENU3"
+        android:title = "các từ đã biết"
+        app:showAsAction = "never" />
+
+    <item android:id = "@+id/MENU4"
+        android:title = "từ không chắc chắn"
+        app:showAsAction = "never" />
+
+    <item android:id = "@+id/MENU5"
+        android:title = "từ không xác định"
+        app:showAsAction = "never" />
+
+    <item android:id = "@+id/MENU_NEXT_QUESTION"
+        android:title = "câu hỏi tiếp theo"
+        app:showAsAction = "never" />
+</menu>

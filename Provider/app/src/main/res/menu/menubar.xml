@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/product"
+        android:title="Product Information">
+
+    </item>
+
+    <item
+        android:id="@+id/mnorder"
+        android:title="Order Information">
+
+    </item>
+
+    <item
+        android:id="@+id/mnsearch"
+        android:title="Search Product">
+
+    </item>
+
+</menu>

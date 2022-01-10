@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnxemds"
+        android:title="@string/xem_danh_sach">
+        <menu>
+            <item
+                android:id="@+id/mnxemdssp"
+                android:title="@string/san_pham" />
+            <item
+                android:id="@+id/mnxemdsl"
+                android:title="@string/loai" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/mnnhapsp"
+        android:title="@string/Nhap_sp">
+
+    </item>
+
+    <item
+        android:id="@+id/mntimsp"
+        android:title="@string/tim_kiem_san_pham">
+
+    </item>
+
+    <item
+        android:id="@+id/mnxoads"
+        android:title="@string/xoa_ds">
+
+    </item>
+
+
+
+</menu>
